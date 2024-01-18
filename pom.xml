@@ -16,7 +16,7 @@
     <properties>
         <java.version>17</java.version>
         <sonar.login>admin</sonar.login>
-        <sonar.password>DanviShanmuki@2</sonar.password>
+        <sonar.password>itsosama</sonar.password>
         <sonar.projectKey>rd</sonar.projectKey>
         <sonar.projectName>rd</sonar.projectName>
     </properties>
